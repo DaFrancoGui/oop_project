@@ -8,7 +8,7 @@
 
 > Repositório destinado para o desenvolvimento do projeto final da discipliana PRG22107 - Programação orienta a objeto. 
 > 
-> Aluno: Nome do aluno  
+> Alunos: Guilherme Franco e Marcelo Zampieri
 > Professor: Hugo Marcondes
 
 <p align=center><strong>SUMÁRIO</strong></p>
