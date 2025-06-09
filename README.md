@@ -2,7 +2,7 @@
      width="30%"
      style="padding: 10px">
 
-# << Título do projeto >>
+# Turn based RPG</strong></p>
 
 ## << Descrição breve do domínio do problema >>
 
