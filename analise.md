@@ -42,6 +42,7 @@ As primeiras salas são fixas, mas as subsequentes são geradas com base em mode
 - **Interagir com narrativa**: Permite ler mensagens ou eventos ligados à história do jogo.
 
 <div align="center">
+  <!--
     <img src="img/Diagramas/Diagrama de caso de uso.png" 
          width="70%" 
          style="padding: 10px">
@@ -50,10 +51,12 @@ As primeiras salas são fixas, mas as subsequentes são geradas com base em mode
 ## Diagrama de Domínio do problema
 
 <div align="center">
+ 
     <img src="img/Diagramas/Classe UML.png" 
          width="70%" 
          style="padding: 10px">
 </div>
+-->
 
 <div align="center">
 
