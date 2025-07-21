@@ -47,6 +47,6 @@ A arquitetura está dividida em módulos distintos:
 
 <div align="center">
 
-[Retroceder](projeto.md) • [Início](analise.md)
+[Retroceder](projeto.md) • [Início](testes.md)
 
 </div>
