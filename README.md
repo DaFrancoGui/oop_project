@@ -2,7 +2,7 @@
      width="30%"
      style="padding: 10px">
 
-# Turn based RPG</strong></p>
+# "Oração do Lich" a turn based RPG project</strong></p>
 
 ## << Descrição breve do domínio do problema >>
 
