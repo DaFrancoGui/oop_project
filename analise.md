@@ -29,6 +29,11 @@ As primeiras salas são fixas, mas as subsequentes são geradas com base em mode
 ---
 
 ## Diagrama de Casos de Uso
+<div align="center">
+<img src="img/Diagramas/Diagrama de caso de uso.png"
+     width="70%"
+     style="padding: 10px">
+</div>
 
 **Ator:** Jogador
 
@@ -62,4 +67,4 @@ As primeiras salas são fixas, mas as subsequentes são geradas com base em mode
 
 [Retroceder](README.md) | [Avançar](projeto.md)
 
-</div>
+
